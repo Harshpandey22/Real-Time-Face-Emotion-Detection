@@ -38,6 +38,6 @@ Download model_78.h5 and model_weights_78.h5 from the project directory.
 - streamlit run main_app.py
 ## Deployement
 The application is deployed on Streamlit Sharing. You can access the live version of the app via the following link:
-- https://real-time-face-emotion-by-harsh.streamlit.app 
+- https://real-time-face-emotion-by-harsh.streamlit.app
 
 
